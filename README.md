@@ -1,15 +1,15 @@
 <body>
   <center>
-<h1 align="center">~ 💖 Welcome I'M Putra💖 ~</h1>
+<h1 align="center">~ 💖 Welcome 💖 ~</h1>
 <br>
 <div align="center">
   </a>
     <br>
-  <p>PUTRAMODZ</p>
+  <p>Ditz</p>
   <p>hidup itu sementara kawan</p>
   <p>Apa Yang Perlu Kamu sombongkan?</p>
 <p>Alwys Bersyukur yaa ><</p>
-<p><a href="https://youtube.com/@Putra_Modz_">- subscribe ya</a><p>
+<p><a href="-">- subscribe ya</a><p>
   
 </div>
     <div align="center">
@@ -21,12 +21,12 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Putra</li>
+ <b>Name:</b> Adit</li>
 <li>
-<b>Umur:</b> 18 YearsOld
+<b>Umur:</b> 15 YearsOld
 </li>
 <li>
-<b>Skils:</b> Html,Js,C++
+<b>Skils:</b> kaga ada😅
 </li>
 <li>
 <b>Gender:</b> Laki-Laki
@@ -35,7 +35,7 @@
 <b>Id Server</b> 72.838.42
 </li>
 <li>
-<b>Hobby:</b> Mangan,turu,Ngoding,Pacar amellll 
+<b>Hobby:</b> Mangan,turu
 </li>
 <li>
 <b>Working @:</b> Pt Sejahtra PDI :V
